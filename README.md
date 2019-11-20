@@ -36,6 +36,7 @@ With a table of size 3 and the knowledge base of:
 <li>knows(ivo, eliel).
 </ul>
 The program outputs the following:
+
 ```
 ?- main(3, [david, eliel, lidia, malena, ivo, nan, if, mayra, mlidia], Res).
 david will be seated with [(lidia,100),(malena,75)] since their relationship score is the highest.
